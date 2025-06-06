@@ -1,7 +1,5 @@
-# Aluno: [Seu Nome Aqui]
-# RM: [Seu RM Aqui]
-# Projeto: HydroSafe - Simulador de Monitoramento de Enchentes
-# Disciplina: Computational Thinking Using Python
+# Aluno: Felipe Santos Nunes
+# RM: RM563919
 
 def input_dados():
     """
